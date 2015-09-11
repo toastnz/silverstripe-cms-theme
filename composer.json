@@ -22,7 +22,7 @@
     "composer/installers": "*"
   },
   "support": {
-    "issues": "https://github.com/Rhym/silverstripe-cms-theme/issues"
+    "issues": "https://github.com/toastnz/silverstripe-cms-theme/issues"
   },
   "extra": {
     "installer-name": "silverstripe-branding"
