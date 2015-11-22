@@ -1,6 +1,6 @@
 {
   "name": "toastnz/silverstripe-cms-theme",
-  "description": "CMS Theme",
+  "description": "CMS Theme Module",
   "type": "silverstripe-module",
   "keywords": [
     "silverstripe",
@@ -19,7 +19,7 @@
   },
   "require": {
     "silverstripe/framework": ">=3.0.1",
-    "composer/installers": "*"
+    "composer/installers": "*" 
   },
   "support": {
     "issues": "https://github.com/toastnz/silverstripe-cms-theme/issues"
@@ -28,3 +28,4 @@
     "installer-name": "silverstripe-branding"
   }
 }
+
